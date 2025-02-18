@@ -42,7 +42,11 @@ _"다양한 비전(Vision) 논문을 심층 분석하고, 공유와 협업을 �
 
 ## 논문 선정 
 - 2년 이내 Top-Tier Vision Conference에서 선정된 Best (Student) paper, Spotlight 혹은 이에 준하는 논문
-  - 대상 학회: CVPR, ICCV, ECCV, NeurIPS 등 Top-tier Vision 학회
+  - 대상 학회: CVPR, ICCV, ICLR, ICML, ECCV, NeurIPS, AAAI 등 Top-tier Vision 학회
+  - 참고 자료
+      - [Best Papers Top Venues](https://github.com/SarahRastegar/Best-Papers-Top-Venues)
+      - [CVPR 2024 Best Paper Award Winners](https://www.computer.org/press-room/cvpr-2024-announces-best-paper-award-winners)
+    
 - 시의성이 큰 Tech Report 
   - 예시: 2025 CES NVIDIA Cosmos, BigTech Tech Report
 
@@ -51,7 +55,7 @@ _"다양한 비전(Vision) 논문을 심층 분석하고, 공유와 협업을 �
 <br>
 
 ## 발표자 진행 안내
-- 논문 고지 : 발표일로부터 최소 2주 전 발표할 논문을 내부 Discord에 사전 고지.
+- 논문 고지 : 발표일로부터 **최소 2주 전** 발표할 논문을 내부 **Discord에 사전 고지** & **Github 주차별 활동에 기입**
 - 발표 자료 : 자율적으로 구성 및 작성
 - 발표 후 : github에 자료 공유
 
@@ -60,8 +64,8 @@ _"다양한 비전(Vision) 논문을 심층 분석하고, 공유와 협업을 �
 ## 🌱 참여 안내 (How to Engage)
 
 **누구나 청강을 통해 모임을 참여하실 수 있습니다.**  
-- 특별한 신청 없이 매주 화요일 오후 9:00~10:30에 맞추어 디스코드 #Room-GH 채널로 입장
-- 1기 : 2025.03.04 ~ 2025.06.17
+- 특별한 신청 없이 매주 화요일 오후 9:00~10:30에 맞추어 디스코드 #Room-ADD2(추후 공지) 채널로 입장
+- 1기 : 2025.03.04 ~ 2025.06.24
 
 <br>
 
@@ -77,8 +81,7 @@ _"다양한 비전(Vision) 논문을 심층 분석하고, 공유와 협업을 �
 | **Member** | - |  |                |
 | **Member** | - |  |                |
 | **Member** | - |  |                |
-| **Member** | - |  |                |
-| **Member** | - |  |                |
+
 
 <br>
 
@@ -87,11 +90,12 @@ _"다양한 비전(Vision) 논문을 심층 분석하고, 공유와 협업을 �
 gantt
     title 2025 Best Vision Paper Team 여정
     section 일정    
-    OT & 1차 cycle       :a1, 2025-03-04, 42d
-    2차 cycle            :a1, 2025-04-15, 42d
-    3차 cycle            :a1, 2025-05-27, 35d
+    OT & 1차 cycle       :a1, 2025-03-04, 49d
+    2차 cycle            :a1, 2025-05-20, 42d    
     section 가짜연구소 활동
-    휴일: holiday, 2025-05-06, 1d
+    Magical Week1: 2025-03-23, 7d
+    Magical Week2: 2025-04-27, 7d
+    휴일주차 (05.06): holiday, 2025-05-04, 7d
     PseudoCon 2025     : conference, 2025-05-17, 1d
     
 ```
@@ -102,22 +106,25 @@ gantt
 
 |회차| 날짜 | 내용 | 발표자 | 
 | --------| -------- | -------- | ---- |
-|1| 2025/03/04 | OT | 송건학 | 
-|2| 2025/03/11 |  |  | 
-|3| 2025/03/18 |  |  | 
-|4| 2025/03/25 |  |  | 
-|5| 2025/04/01 |  |  | 
-|6| 2025/04/08 |  |  | 
-|7| 2025/04/15 |  |  | 
-|8| 2025/04/22 |  |  | 
-|9| 2025/04/29 |  |  | 
+| Cycle 1 |
+|1| 2025/03/04 | OT & 1회차 발표 | 송건학 | 
+|2| 2025/03/11 | TBD | TBD (1명) | 
+|3| 2025/03/18 | TBD | TBD (1명) | 
+|4| 2025/03/25 | Magical Week | - | 
+|5| 2025/04/01 | TBD | TBD (1명) | 
+|6| 2025/04/08 | TBD | TBD (1명) | 
+|7| 2025/04/15 | TBD | TBD (1명) | 
+|8| 2025/04/22 | TBD | TBD (2명) | 
+|9| 2025/04/29 | Magical Week | - | 
 |10| 2025/05/06 | 대체 휴일 | - | 
-|11| 2025/05/13 |  |  | 
-|12| 2025/05/20 |  |  | 
-|13| 2025/05/27 |  |  | 
-|14| 2025/06/03 |  |  | 
-|15| 2025/06/10 |  |  | 
-|16| 2025/06/17 |  |  | 
+|11| 2025/05/13 | PseudoCon 2025 준비기간 & 재점검 | 모두 발언 | 
+| Cycle 2 |
+|12| 2025/05/20 | TBD | TBD (2명) | 
+|13| 2025/05/27 | TBD | TBD (1명) | 
+|14| 2025/06/03 | TBD | TBD (1명) | 
+|15| 2025/06/10 | TBD | TBD (1명) | 
+|16| 2025/06/17 | TBD | TBD (1명) | 
+|17| 2025/06/24 | TBD | TBD (2명) | 
 
 
 <br>
