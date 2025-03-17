@@ -89,7 +89,7 @@ _"다양한 비전(Vision) 논문을 심층 분석하고, 공유와 협업을 �
 | **Member** | 김명섭 |  |                |
 | **Member** | 김지연 |  |                |
 | **Member** | 김지환 |  |                |
-| **Member** | 채진영 |  |                |
+| **Member** | 채진영 | Multi-modal learning, Knowledge-based reasoning, Agent | [LinkedIN](https://www.linkedin.com/in/jinyeong-chae419) |
 
 <br>
 
