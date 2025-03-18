@@ -86,7 +86,7 @@ _"다양한 비전(Vision) 논문을 심층 분석하고, 공유와 협업을 �
 | **Project Manager** | 송건학 | Vision 기반 Generative AI (2D, 3D etc), Agent | [LinkedIN](https://www.linkedin.com/in/geonhak-song-09a037165/) |
 | **Member** | 고재훈 |  |                |
 | **Member** | 공성택 |  |                |
-| **Member** | 김명섭 |  |                |
+| **Member** | 김명섭 | Medical AI, Generative AI (2D, 3D etc) | [LinkedIN](https://www.linkedin.com/in/kmscopra/) |
 | **Member** | 김지환 |  |                |
 | **Member** | 채진영 | Multi-modal learning, Knowledge-based reasoning, Agent | [LinkedIN](https://www.linkedin.com/in/jinyeong-chae419) |
 
@@ -119,7 +119,7 @@ gantt
 |5| 2025/04/01 | PixelSplat: 3D Gaussian Splats from Image Pairs for Scalable Generalizable 3D Reconstruction | CVPR 2024, Honorable Mention |[Project](https://davidcharatan.com/pixelsplat/) / [Arxiv](https://arxiv.org/abs/2312.12337)| 공성택 | 
 |6| 2025/04/08 | TBD ||| 김지환 | 
 |7| 2025/04/15 | TBD ||| 채진영 | 
-|8| 2025/04/22 | TBD ||| 김명섭 | 
+|8| 2025/04/22 | Rich Human Feedback for Text-to-Image Generation | CVPR 2024, Best Paper Award | [Project](https://github.com/google-research/google-research/tree/master/richhf_18k) / [Arxiv](https://arxiv.org/abs/2312.10240) | 김명섭 | 
 |9| 2025/04/29 | Magical Week |||  | 
 |10| 2025/05/06 | 대체 휴일 ||| | 
 |11| 2025/05/13 | TBD ||| TBD (1명) | 
