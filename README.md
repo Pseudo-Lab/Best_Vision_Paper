@@ -114,10 +114,10 @@ gantt
 |회차| 날짜 | 논문 이름 | 학회 : 수상 이력 | Project/논문 링크 | 발표자 | 
 | --------| -------- | -------- | -------- | -------- | ---- |
 |1| 2025/03/04 | OT ||| 송건학 | 
-|2| 2025/03/11 | Generative Image Dynamics | CVPR 2024 : Best Paper Award | [Project](https://generative-dynamics.github.io/) / [Arxiv](https://arxiv.org/abs/2309.07906) | 송건학 | 
+|2| 2025/03/11 | Generative Image Dynamics | CVPR 2024, Best Paper Award | [Project](https://generative-dynamics.github.io/) / [Arxiv](https://arxiv.org/abs/2309.07906) | 송건학 | 
 |3| 2025/03/18 | Is ImageNet worth 1 video? Learning strong image encoders from 1 long unlabelled video | ICLR 2024, Honorable Mention |[Project](https://shashankvkt.github.io/dora) / [Arxiv](https://arxiv.org/abs/2309.07906) | 고재훈 | 
 |4| 2025/03/25 | Magical Week ||| | 
-|5| 2025/04/01 | TBD ||| 공성택 | 
+|5| 2025/04/01 | PixelSplat: 3D Gaussian Splats from Image Pairs for Scalable Generalizable 3D Reconstruction | CVPR 2024, Honorable Mention |[Project](https://davidcharatan.com/pixelsplat/) / [Arxiv](https://arxiv.org/abs/2312.12337)| 공성택 | 
 |6| 2025/04/08 | TBD ||| TBD (1명) | 
 |7| 2025/04/15 | TBD ||| TBD (1명) | 
 |8| 2025/04/22 | TBD ||| TBD (1명) | 
