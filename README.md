@@ -87,7 +87,6 @@ _"다양한 비전(Vision) 논문을 심층 분석하고, 공유와 협업을 �
 | **Member** | 고재훈 |  |                |
 | **Member** | 공성택 |  |                |
 | **Member** | 김명섭 |  |                |
-| **Member** | 김지연 |  |                |
 | **Member** | 김지환 |  |                |
 | **Member** | 채진영 | Multi-modal learning, Knowledge-based reasoning, Agent | [LinkedIN](https://www.linkedin.com/in/jinyeong-chae419) |
 
@@ -118,9 +117,9 @@ gantt
 |3| 2025/03/18 | Is ImageNet worth 1 video? Learning strong image encoders from 1 long unlabelled video | ICLR 2024, Honorable Mention |[Project](https://shashankvkt.github.io/dora) / [Arxiv](https://arxiv.org/abs/2309.07906) | 고재훈 | 
 |4| 2025/03/25 | Magical Week ||| | 
 |5| 2025/04/01 | PixelSplat: 3D Gaussian Splats from Image Pairs for Scalable Generalizable 3D Reconstruction | CVPR 2024, Honorable Mention |[Project](https://davidcharatan.com/pixelsplat/) / [Arxiv](https://arxiv.org/abs/2312.12337)| 공성택 | 
-|6| 2025/04/08 | TBD ||| TBD (1명) | 
-|7| 2025/04/15 | TBD ||| TBD (1명) | 
-|8| 2025/04/22 | TBD ||| TBD (1명) | 
+|6| 2025/04/08 | TBD ||| 김지환 | 
+|7| 2025/04/15 | TBD ||| 채진영 | 
+|8| 2025/04/22 | TBD ||| 김명섭 | 
 |9| 2025/04/29 | Magical Week |||  | 
 |10| 2025/05/06 | 대체 휴일 ||| | 
 |11| 2025/05/13 | TBD ||| TBD (1명) | 
