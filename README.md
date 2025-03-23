@@ -68,6 +68,22 @@ _"다양한 비전(Vision) 논문을 심층 분석하고, 공유와 협업을 �
 - 논문 고지 : 발표일로부터 **최소 2주 전** 발표할 논문을 내부 **Discord에 사전 고지** & **Github 주차별 활동에 기입**
 - 발표 자료 : 자율적으로 구성 및 작성
 - 발표 후 : github에 자료 공유
+<br>
+
+## 파일 공유 방법
+
+- 방법 1. 진행한 발표자료를 1) "Github Repository 내 upload" 혹은 2) "클라우드 내 upload" 진행. (가급적 Repository upload 요청)
+  - "Github Repository 내 upload" 진행시 : Conference별 연도별 파일 upload 진행 요청.
+  - "클라우드 내 upload" 진행시 : 전체 공유가 가능한 링크 준비 요청.
+- 방법 2. upload한 발표자료 링크를 기반으로 presentations 폴더 내에 존재하는 [conference_upload_list.md](https://github.com/Pseudo-Lab/Best_Vision_Paper/blob/main/presentations/conference_upload_list.md) 파일에 기입.
+
+e.g. 
+CVPR의 경우 해당 목차 생성 후 아래와 같은 Table 구성 진행함.
+
+| Paper Title | Award | Project Page / Arxiv Page | Presenter | URL | 
+| --------| -------- | -------- | -------- | -------- |
+| 2024 |||||
+| Generative Image Dynamics | CVPR 2024, Best Paper Award | [Project](https://generative-dynamics.github.io/) / [Arxiv](https://arxiv.org/abs/2309.07906) | Geonhak Song | [presenter_file](https://github.com/Pseudo-Lab/Best_Vision_Paper/blob/main/presentations/CVPR/2024/%5BCVPR%202024%5D%20Generative%20Image%20Dynamics%20(Best%20Paper%20Award).pdf) |
 
 <br>
 
