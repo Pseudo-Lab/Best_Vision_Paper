@@ -103,7 +103,7 @@ CVPR의 경우 해당 목차 생성 후 아래와 같은 Table 구성 진행함.
 | **Member** | 고재훈 |  |                |
 | **Member** | 공성택 |  |                |
 | **Member** | 김명섭 | Medical AI, Generative AI (2D, 3D etc) | [LinkedIN](https://www.linkedin.com/in/kmscopra/) |
-| **Member** | 김지환 |  |                |
+| **Member** | 김지환 | Generative Model, Segmentation (3D Medical image) | [LinkedIN](https://www.linkedin.com/in/kuchoco97/) |
 | **Member** | 채진영 | Multi-modal learning, Knowledge-based reasoning, Agent | [LinkedIN](https://www.linkedin.com/in/jinyeong-chae419) |
 
 <br>
@@ -133,7 +133,7 @@ gantt
 |3| 2025/03/18 | Is ImageNet worth 1 video? Learning strong image encoders from 1 long unlabelled video | ICLR 2024, Honorable Mention |[Project](https://shashankvkt.github.io/dora) / [Arxiv](https://arxiv.org/abs/2309.07906) | 고재훈 | 
 |4| 2025/03/25 | Magical Week ||| | 
 |5| 2025/04/01 | PixelSplat: 3D Gaussian Splats from Image Pairs for Scalable Generalizable 3D Reconstruction | CVPR 2024, Honorable Mention |[Project](https://davidcharatan.com/pixelsplat/) / [Arxiv](https://arxiv.org/abs/2312.12337)| 공성택 | 
-|6| 2025/04/08 | TBD ||| 김지환 | 
+|6| 2025/04/08 | Protein Discovery with Discrete Walk-Jump Sampling | ICLR 2024, Outstanding Papers | [Arxiv](https://arxiv.org/abs/2306.12360) | 김지환 | 
 |7| 2025/04/15 | TBD ||| 채진영 | 
 |8| 2025/04/22 | Rich Human Feedback for Text-to-Image Generation | CVPR 2024, Best Paper Award | [Project](https://github.com/google-research/google-research/tree/master/richhf_18k) / [Arxiv](https://arxiv.org/abs/2312.10240) | 김명섭 | 
 |9| 2025/04/29 | Magical Week |||  | 
