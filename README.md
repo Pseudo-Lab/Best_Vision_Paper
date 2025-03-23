@@ -134,7 +134,7 @@ gantt
 |4| 2025/03/25 | Magical Week ||| | 
 |5| 2025/04/01 | PixelSplat: 3D Gaussian Splats from Image Pairs for Scalable Generalizable 3D Reconstruction | CVPR 2024, Honorable Mention |[Project](https://davidcharatan.com/pixelsplat/) / [Arxiv](https://arxiv.org/abs/2312.12337)| 공성택 | 
 |6| 2025/04/08 | Protein Discovery with Discrete Walk-Jump Sampling | ICLR 2024, Outstanding Papers | [Arxiv](https://arxiv.org/abs/2306.12360) | 김지환 | 
-|7| 2025/04/15 | TBD ||| 채진영 | 
+|7| 2025/04/15 | Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction | NeurIPS 2024, Best Paper |[Project](https://github.com/FoundationVision/VAR) / [Arxiv](https://arxiv.org/pdf/2404.02905) | 채진영 | 
 |8| 2025/04/22 | Rich Human Feedback for Text-to-Image Generation | CVPR 2024, Best Paper Award | [Project](https://github.com/google-research/google-research/tree/master/richhf_18k) / [Arxiv](https://arxiv.org/abs/2312.10240) | 김명섭 | 
 |9| 2025/04/29 | Magical Week |||  | 
 |10| 2025/05/06 | 대체 휴일 ||| | 
