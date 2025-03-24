@@ -100,7 +100,7 @@ CVPR의 경우 해당 목차 생성 후 아래와 같은 Table 구성 진행함.
 | 역할          | 이름 |  관심 분야                                                               | LinkedIn                         |
 |---------------|------|-----------------------------------------------------------------------|----------------------------------------|
 | **Project Manager** | 송건학 | Vision 기반 Generative AI (2D, 3D etc), Agent | [LinkedIN](https://www.linkedin.com/in/geonhak-song-09a037165/) |
-| **Member** | 고재훈 |  |                |
+| **Member** | 고재훈 | Multi-modal Learning, 3D Vision | [LinkedIN](https://www.linkedin.com/in/jaehoon2123/) |
 | **Member** | 공성택 |  |                |
 | **Member** | 김명섭 | Medical AI, Generative AI (2D, 3D etc) | [LinkedIN](https://www.linkedin.com/in/kmscopra/) |
 | **Member** | 김지환 | Generative Model, Segmentation (3D Medical image) | [LinkedIN](https://www.linkedin.com/in/kuchoco97/) |
