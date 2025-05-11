@@ -138,11 +138,11 @@ gantt
 |8| 2025/04/22 | Rich Human Feedback for Text-to-Image Generation | CVPR 2024, Best Paper Award | [Project](https://github.com/google-research/google-research/tree/master/richhf_18k) / [Arxiv](https://arxiv.org/abs/2312.10240) | 김명섭 | 
 |9| 2025/04/29 | Magical Week |||  | 
 |10| 2025/05/06 | 대체 휴일 ||| | 
-|11| 2025/05/13 | TBD ||| 고재훈 (1명) | 
+|11| 2025/05/13 | Reliable Conflictive Multi-view Learning | AAAI 2024, Outstanding Paper Award | [Project](https://github.com/jiajunsi/RCML) / [Arxiv](https://arxiv.org/abs/2402.16897) | 고재훈 | 
 |12| 2025/05/20 | TBD ||| TBD (1명) | 
-|13| 2025/05/27 | TBD ||| 김지환 (1명) | 
+|13| 2025/05/27 | TBD ||| 김지환 | 
 |14| 2025/06/03 | 대선 휴일 ||| | 
-|15| 2025/06/10 | TBD ||| TBD (1명) | 
+|15| 2025/06/10 | TBD ||| 송건학 | 
 |16| 2025/06/17 | TBD ||| TBD (1명) | 
 |17| 2025/06/24 | TBD ||| TBD (1명) | 
 |18| 2025/07/01 | TBD ||| TBD (1명) | 
