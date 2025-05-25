@@ -139,13 +139,13 @@ gantt
 |9| 2025/04/29 | Magical Week |||  | 
 |10| 2025/05/06 | 대체 휴일 ||| | 
 |11| 2025/05/13 | Reliable Conflictive Multi-view Learning | AAAI 2024, Outstanding Paper Award | [Project](https://github.com/jiajunsi/RCML) / [Arxiv](https://arxiv.org/abs/2402.16897) | 고재훈 | 
-|12| 2025/05/20 | TBD ||| TBD (1명) | 
-|13| 2025/05/27 | TBD ||| 김지환 | 
+|12| 2025/05/20 | 불가피한 연기 ||| | 
+|13| 2025/05/27 | SAM 2: Segment Anything in Images and Videos | ICLR 2025, Honorable Mentions | [Project](https://ai.meta.com/sam2/) / [Arxiv](https://arxiv.org/abs/2408.00714)) | 김지환 | 
 |14| 2025/06/03 | 대선 휴일 ||| | 
 |15| 2025/06/10 | TBD ||| 송건학 | 
 |16| 2025/06/17 | TBD ||| 채진영 | 
-|17| 2025/06/24 | TBD ||| TBD (1명) | 
-|18| 2025/07/01 | TBD ||| TBD (1명) | 
+|17| 2025/06/24 | TBD ||| 공성택 | 
+|18| 2025/07/01 | TBD ||| 김명섭 | 
 
 
 <br>
