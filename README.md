@@ -143,7 +143,7 @@ gantt
 |13| 2025/05/27 | SAM 2: Segment Anything in Images and Videos | ICLR 2025, Honorable Mentions | [Project](https://ai.meta.com/sam2/) / [Arxiv](https://arxiv.org/abs/2408.00714)) | 김지환 | 
 |14| 2025/06/03 | 대선 휴일 ||| | 
 |15| 2025/06/10 | Learning Interactive Real-World Simulators | ICLR 2024, Outstanding Papers | [Project](https://universal-simulator.github.io/unisim/) / [Arxiv](https://arxiv.org/abs/2310.06114))| 송건학 | 
-|16| 2025/06/17 | TBD ||| 채진영 | 
+|16| 2025/06/17 | Re-thinking Temporal Search for Long-Form Video Understanding | CVPR 2025 | [Project](https://lvhaystackai.com/) / [Arxiv](https://lvhaystackai.com/assets/pdf/TStar.pdf) | 채진영 | 
 |17| 2025/06/24 | TBD ||| 공성택 | 
 |18| 2025/07/01 | TBD ||| 김명섭 | 
 
