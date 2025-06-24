@@ -145,7 +145,7 @@ gantt
 |15| 2025/06/10 | Learning Interactive Real-World Simulators | ICLR 2024, Outstanding Papers | [Project](https://universal-simulator.github.io/unisim/) / [Arxiv](https://arxiv.org/abs/2310.06114))| 송건학 | 
 |16| 2025/06/17 | Re-thinking Temporal Search for Long-Form Video Understanding | CVPR 2025 | [Project](https://lvhaystackai.com/) / [Arxiv](https://lvhaystackai.com/assets/pdf/TStar.pdf) | 채진영 | 
 |17| 2025/06/24 | TBD ||| 공성택 | 
-|18| 2025/07/01 | TBD ||| 김명섭 | 
+|18| 2025/07/01 | LightTDiff, Surgical Endoscopic Image Low-Light Enhancement with T-Diffusion | MICCAI 2024 | [Project](https://github.com/DavisMeee/LighTDiff) / [Arxiv](https://arxiv.org/abs/2405.10550) | 김명섭 | 
 
 
 <br>
